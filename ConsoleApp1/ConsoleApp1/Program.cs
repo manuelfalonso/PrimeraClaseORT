@@ -21,8 +21,6 @@ namespace ConsoleApp1
 
             Console.WriteLine(alumno.MostrarDatos());
 
-            Console.WriteLine("Hello World!!");
-
             Console.ReadKey();
         }
     }
